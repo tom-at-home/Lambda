@@ -5,7 +5,7 @@ public class AnonymousThreadWithAnonymousLambda {
 
 	public static void main(String[] args){
 
-		ThreadWithLambda t = new ThreadWithLambda();
+		AnonymousThreadWithAnonymousLambda t = new AnonymousThreadWithAnonymousLambda();
 		t.showMessage();
 		
 	}

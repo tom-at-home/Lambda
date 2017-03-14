@@ -5,7 +5,7 @@ public class ConcreteThreadWithAnonymousLambda {
 
 	public static void main(String[] args){
 
-		ThreadWithLambda t = new ThreadWithLambda();
+		ConcreteThreadWithAnonymousLambda t = new ConcreteThreadWithAnonymousLambda();
 		t.showMessage();
 		
 	}
