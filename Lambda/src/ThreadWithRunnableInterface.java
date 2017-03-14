@@ -4,8 +4,7 @@ public class ThreadWithRunnableInterface {
 
 	public static void main(String[] args){
 
-		ThreadWithRunnableInterface t = new ThreadWithRunnableInterface();
-		t.showMessage();
+		new ThreadWithRunnableInterface().showMessage();
 		
 	}
 	

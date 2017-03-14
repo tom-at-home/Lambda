@@ -1,4 +1,3 @@
-
 public class AnonymousThreadWithAnonymousLambda {
 
 	String message = "Eine Nachricht von Lambda";
