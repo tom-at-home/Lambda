@@ -41,8 +41,7 @@ public class LambdaExample {
 	}
 	
 	public static void main(String[] args){
-		LambdaExample le = new LambdaExample();
-		le.start();
+		new LambdaExample().start();
 	}
 	
 	
